@@ -2,6 +2,7 @@
 posiciones de sus elementos, de tal forma que el primer elemento pase a
 ser el ultimo y el ultimo el primero, el segundo el penultimo y asi sucesivamente, e imprima ese vector*/
 /*Hola mi amor como tas???*/
+// Muy bien mi vidita hermosa
 #include<stdio.h>
 main(){
 	int x[6],c=0,m=0;
