@@ -1,7 +1,7 @@
 /*Realice un programa que lea un vector de seis elementos e intercambie las
 posiciones de sus elementos, de tal forma que el primer elemento pase a
 ser el ultimo y el ultimo el primero, el segundo el penultimo y asi sucesivamente, e imprima ese vector*/
-/*Hola mi amor*/
+/*Hola mi amor como tas???*/
 #include<stdio.h>
 main(){
 	int x[6],c=0,m=0;
